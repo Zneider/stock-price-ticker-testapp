@@ -1,6 +1,6 @@
-# empty-project
+# Stock price ticker testapp
 
-Empty project.
+React frontend to display stock price ticker info
 
 ## Building and running on localhost
 
@@ -37,4 +37,3 @@ npm test
 ## Credits
 
 Made with [createapp.dev](https://createapp.dev/)
-
